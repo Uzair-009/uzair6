@@ -6,7 +6,7 @@ os.system('git pull')
 
 os.system('termux-setup-storage') 
 
-import Uzair.py
+import mehar
 
 
 
