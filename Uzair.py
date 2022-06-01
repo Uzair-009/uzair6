@@ -1,6 +1,6 @@
 import os
 
-print ('\033[1;33m    Welcome To Our Tool
+print ('\033[1;33m     Welcome To Our Tool
 
 os.system('git pull')
 
